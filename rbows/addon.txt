@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Rainbow Colours"
+	"version"			"1"
+	"up_date"			"19/07/14"
+	"author_name"			"Top Hatted Cat"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Makes physics guns and player colours change."
+	"override"			"0"
+}
